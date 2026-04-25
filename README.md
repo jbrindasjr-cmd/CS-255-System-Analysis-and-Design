@@ -1,1 +1,9 @@
-# CS-255-System-Analysis-and-Design
+The DriverPass project was created for a client named DriverPass. The client wanted a system that would help students prepare for their driving tests by giving them access to online classes, practice exams, and the ability to schedule driving lessons. The system also needed to support staff, instructors, and administrators so they could manage appointments, user accounts, reports, and lesson information.
+
+One thing I did particularly well was understanding the client’s needs and turning them into clear system requirements. I was able to identify the main users of the system and explain how each person would interact with it. I also think I did well organizing the system design in a way that showed how the different parts of the system connected.
+
+If I could revise one part of my work, I would improve the diagrams by making them more detailed and visually organized. I would make sure the relationships between users, processes, and system features are easier to follow. Improving the diagrams would make the design clearer for someone who is reviewing the project for the first time.
+
+I interpreted the user’s needs by reviewing the DriverPass interview information and focusing on what the client wanted the system to do. I considered the needs of students, instructors, administrators, and the owner. This is important because a system should be designed around the people who will actually use it. If user needs are not considered, the final system may not solve the real problem or may be difficult to use.
+
+My approach to designing software is to first understand the problem, identify the users, and then break the system down into smaller parts. I would continue using techniques such as gathering requirements, creating use cases, building diagrams, and reviewing feedback. In the future, I would also spend more time checking that the design is clear, complete, and easy for both technical and nontechnical users to understand.
